@@ -44,28 +44,18 @@ npm start
 - 檢查使用者帳號、密碼是否正確
 - 若輸入皆正確則導入成功畫面，失敗則提醒輸入錯誤
 - 測試用可成功登入的使用者如下:
-    {
-      firstName: 'Tony',
+      1. firstName: 'Tony',
       email: 'tony@stark.com',
       password: 'iamironman'
-    },
-    {
-      firstName: 'Steve',
+      2. firstName: 'Steve',
       email: 'captain@hotmail.com',
       password: 'icandothisallday'
-    },
-    {
-      firstName: 'Peter',
+      3. firstName: 'Peter',
       email: 'peter@parker.com',
       password: 'enajyram'
-    },
-    {
-      firstName: 'Natasha',
+      4. firstName: 'Natasha',
       email: 'natasha@gamil.com',
       password: '*parol#@$!'
-    },
-    {
-      firstName: 'Nick',
+      5. firstName: 'Nick',
       email: 'nick@shield.com',
       password: 'password'
-    }
